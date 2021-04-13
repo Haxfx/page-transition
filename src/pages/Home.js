@@ -4,12 +4,9 @@ import Title from '../components/Title';
 
 const Home = () => (
   <div className="inner">
-    <Title lineContent="Solving Solutions that" lineContent2="need expert insight" />
+    <Title lineContent="Bassie is an" lineContent2="expert at react" />
     <div>
-      <p className="other">
-        Does project report used question death, out more rhetoric unpleasing what compared both of
-        sentinels.
-      </p>
+      <p className="other">This is my practice text for page transition</p>
     </div>
   </div>
 );

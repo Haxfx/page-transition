@@ -3,11 +3,11 @@ import Title from '../components/Title';
 
 const About = () => (
   <div className="inner">
-    <Title lineContent="How we get" lineContent2="things done" />
+    <Title lineContent="Practice transition" lineContent2="with title text" />
     <p className="other">
-      A character his cache I succeed employed entire been it find the more and may the to his their
-      five and towards in lay rippedup, what and so endure before for her been decades the few to
-      than would was concept.
+      This is a practice with gsap to take care of page transition in react. To do the transition we
+      used gsap and CSSTransition for not only the loading text but also to fade out the page we are
+      leaving.
     </p>
   </div>
 );
